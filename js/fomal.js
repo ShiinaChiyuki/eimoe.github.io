@@ -1113,13 +1113,13 @@ function changeMouseMode() {
 var now1 = new Date();
 
 function createtime1() {
-  var grt = new Date("08/09/2022 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  var grt = new Date("24/10/2024 00:00:00"); //此处修改你的建站时间或者网站上线时间
   now1.setTime(now1.getTime() + 250);
   var days = (now1 - grt) / 1000 / 60 / 60 / 24;
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Fomalhaut🥝の小家!`,
+    `欢迎来到Kato.中川梓🫐的小窝w！`,
     `Future is now 🍭🍭🍭`,
     `
         
@@ -1130,10 +1130,10 @@ function createtime1() {
 ██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██   
                                               
 `,
-    "小站已经苟活",
+    "小破站已经生存了",
     dnum,
-    "天啦!",
-    "©2022 By Fomalhaut",
+    "天咯！",
+    "©2024 By Kato.",
   ];
 
   setTimeout(
@@ -2595,7 +2595,7 @@ if ((lunar["IMonthCn"] == "九月" && lunar["IDayCn"] == "初九")) {
 }
 
 // 切换主题提醒
-// if (y == 2022 && m == 12 && (dd >= 18 && dd <= 20)) {
+// if (y == 2024 && m == 12 && (dd >= 18 && dd <= 20)) {
 //     if (sessionStorage.getItem("isPopupWindow") != "1") {
 //         Swal.fire("网站换成冬日限定主题啦⛄");
 //         sessionStorage.setItem("isPopupWindow", "1");
@@ -2785,7 +2785,7 @@ var now = new Date();
 function createtime() {
   // 当前时间
   now.setTime(now.getTime() + 1000);
-  var start = new Date("08/01/2022 00:00:00"); // 旅行者1号开始计算的时间
+  var start = new Date("10/24/2024 00:00:00"); // 旅行者1号开始计算的时间
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
