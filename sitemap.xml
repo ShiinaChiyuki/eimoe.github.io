@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eimoe.cn/life/music/index.html</loc>
+    
+    <lastmod>2024-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eimoe.cn/music/index.html</loc>
+    
+    <lastmod>2024-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eimoe.cn/tags/index.html</loc>
     
     <lastmod>2024-10-25</lastmod>
@@ -66,15 +84,6 @@
   
   <url>
     <loc>https://eimoe.cn/personal/about/index.html</loc>
-    
-    <lastmod>2024-10-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eimoe.cn/life/music/index.html</loc>
     
     <lastmod>2024-10-25</lastmod>
     
