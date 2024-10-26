@@ -3378,13 +3378,11 @@ function createWinbox() {
 <div class="note warning modern"><p>非商免字体未经授权只能个人使用。本站为完全非商业、非盈利性质的网站，平时用于个人学习交流，如有侵权请联系站长删除，谢谢！ —— 致版权方</p>
 </div>
 <p id="swfs">
-<a class="swf" id="swf_ZZAW" href="javascript:;" rel="noopener external nofollow" style="font-family:'ZhuZiAWan'!important;color:black" onclick="setFont('ZhuZiAWan')">筑紫A丸</a>
+<a class="swf" id="swf_ZZAW" href="javascript:;" rel="noopener external nofollow" style="font-family:'ZZAW'!important;color:black" onclick="setFont('ZZAW')">筑紫A丸</a>
 <a class="swf" id="swf_HYTMR" href="javascript:;" rel="noopener external nofollow" style="font-family:'HYTMR'!important;color:black" onclick="setFont('HYTMR')">汉仪唐美人</a>
 <a class="swf" id="swf_LXGW" href="javascript:;" rel="noopener external nofollow" style="font-family:'LXGW'!important;color:black" onclick="setFont('LXGW')">霞鹜文楷</a>
-<a class="swf" id="swf_ZTGJTTQ" href="javascript:;" rel="noopener external nofollow" style="font-family:'TTQHB'!important;color:black" onclick="setFont('TTQHB')">甜甜圈</a>
-<a class="swf" id="swf_KYKT" href="javascript:;" rel="noopener external nofollow" style="font-family:'YSHST'!important;color:black" onclick="setFont('YSHST')">可盐可甜</a>
 <a class="swf" id="swf_MiSans" href="javascript:;" rel="noopener external nofollow" style="font-family:'MiSans'!important;color:black" onclick="setFont('MiSans')">MiSans</a>
-<a class="swf" id="swf_WYYH" href="javascript:;" rel="noopener external nofollow" style="font-family:-apple-system, IBM Plex Mono ,monosapce,'微软雅黑', sans-serif;!important;color:black" onclick="setFont('default')">系统默认</a>
+<a class="swf" id="swf_WYYH" href="javascript:;" rel="noopener external nofollow" style="font-family:-apple-system, IBM Plex Mono ,monosapce,'微软雅黑', sans-serif;!important;color:black" onclick="setFont('WYYH')">系统默认</a>
 </p>
 
 <h2>三、主题色设置</h2>
@@ -3407,7 +3405,7 @@ function createWinbox() {
 <h3>1. 二次元</h3>
 <details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG1.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG1.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG2.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG2.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG3.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG3.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG4.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG4.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG5.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG5.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG6.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG6.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG7.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG7.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG8.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG8.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG9.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG9.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/ACG/ACG10.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/ACG/ACG10.png)')"></a></div>
               </div>
             </details>
 
@@ -3416,15 +3414,15 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Scenery/fj1.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Scenery/fj1.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Scenery/fj2.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Scenery/fj2.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Scenery/fj3.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Scenery/fj3.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Scenery/fj4.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Scenery/fj4.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Scenery/fj5.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Scenery/fj5.png)')"></a></div>
               </div>
             </details>
 
 <h3>3. 萌宠</h3>
 
-<details class="folding-tag" cyan><summary> 查看萌宠背景 </summary>
+<details class="folding-tag" cyan><summary> 查看小动物背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Animal/dw1.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Animal/dw1.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Animal/dw2.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Animal/dw2.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Animal/dw3.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Animal/dw3.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Animal/dw4.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Animal/dw4.png)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://eimoe.cn/img/Animal/dw5.png)" class="imgbox" onclick="changeBg('url(https://eimoe.cn/img/Animal/dw5.png)')"></a></div>
               </div>
             </details>
 
