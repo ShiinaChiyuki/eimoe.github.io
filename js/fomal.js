@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://eimoe.cn/img/totalBg.png);
-    --darkmode-bg: url(https://eimoe.cn/img/totalBg.png);
-    --mobileday-bg: url(https://eimoe.cn/img/totalBg.png);
-    --mobilenight-bg: url(https://eimoe.cn/img/totalBg.png);
+    --default-bg: url(https://eimoe.cn/img/webDay.png);
+    --darkmode-bg: url(https://eimoe.cn/img/webNight.png);
+    --mobileday-bg: url(https://eimoe.cn/img/mobileDay.png);
+    --mobilenight-bg: url(https://eimoe.cn/img/mobileNight.png);
   }`;
 }
 // 切换背景主函数
