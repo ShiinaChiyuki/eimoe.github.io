@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eimoe.cn/personal/about/index.html</loc>
+    
+    <lastmod>2024-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://eimoe.cn/posts/92f109d.html</loc>
     
     <lastmod>2024-10-25</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://eimoe.cn/personal/bb/index.html</loc>
-    
-    <lastmod>2024-10-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://eimoe.cn/personal/about/index.html</loc>
     
     <lastmod>2024-10-25</lastmod>
     
