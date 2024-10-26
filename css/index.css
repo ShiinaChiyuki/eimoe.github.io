@@ -6581,8 +6581,8 @@ blockquote.pullquote.right {
 
 /* 字体引入 */
 @font-face {
-  font-family: KABJ;
-  src: url(https://eimoe.cn/fonts/可爱吧唧.ttf);
+  font-family: KYKT;
+  src: url(https://eimoe.cn/fonts/KeYanKeTianKeAiTi-2.ttf);
   font-display: swap;
 }
 
@@ -6605,20 +6605,20 @@ blockquote.pullquote.right {
 }
 
 @font-face {
-  font-family: AATTQ;
-  src: url(https://eimoe.cn/fonts/Aa甜甜圈.ttf);
+  font-family: ZTGJTTQ;
+  src: url(https://eimoe.cn/fonts/ZTGJTTQ.ttf);
   font-display: swap;
 }
 
 @font-face {
-  font-family: Consolas_1;
-  src: url(https://eimoe.cn/fonts/Consolas.woff2);
+  font-family: WYYH;
+  src: url(https://eimoe.cn/fonts/MSYH.TTC);
   font-display: swap;
 }
 
 @font-face {
-  font-family: ZhuZiAWan;
-  src: url(https://eimoe.cn/fonts/ZhuZiAWan.ttf);
+  font-family: ZZAW;
+  src: url(https://eimoe.cn/fonts/筑紫A圆2.0.ttf);
   font-display: swap;
 }
 
