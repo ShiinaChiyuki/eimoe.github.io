@@ -6,7 +6,7 @@
   <link href="https://eimoe.cn/atom.xml" rel="self"/>
   
   <link href="https://eimoe.cn/"/>
-  <updated>2024-10-25T17:16:03.963Z</updated>
+  <updated>2022-10-23T14:00:00.000Z</updated>
   <id>https://eimoe.cn/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>About me - 关于我</title>
-    <link href="https://eimoe.cn/posts/92f109d.html"/>
-    <id>https://eimoe.cn/posts/92f109d.html</id>
-    <published>2024-10-25T17:12:49.000Z</published>
-    <updated>2024-10-25T17:16:03.963Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
