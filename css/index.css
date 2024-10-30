@@ -6582,43 +6582,43 @@ blockquote.pullquote.right {
 /* 字体引入 */
 @font-face {
   font-family: KYKT;
-  src: url(https://eimoe.cn/fonts/KeYanKeTianKeAiTi-2.ttf);
+  src: url(/fonts/KeYanKeTianKeAiTi-2.ttf);
   font-display: swap;
 }
 
 @font-face {
   font-family: MiSans;
-  src: url(https://eimoe.cn/fonts/MiSans.ttf);
+  src: url(/fonts/MiSans.ttf);
   font-display: swap;
 }
 
 @font-face {
   font-family: HYTMR;
-  src: url(https://eimoe.cn/fonts/HYTangMeiRen55W.ttf);
+  src: url(/fonts/HYTangMeiRen55W.ttf);
   font-display: swap;
 }
 
 @font-face {
   font-family: LXGW;
-  src: url(https://eimoe.cn/fonts/LXGWWenKaiTC.ttf);
+  src: url(/fonts/LXGWWenKaiTC.ttf);
   font-display: swap;
 }
 
 @font-face {
   font-family: ZTGJTTQ;
-  src: url(https://eimoe.cn/fonts/ZTGJTTQ.ttf);
+  src: url(/fonts/ZTGJTTQ.ttf);
   font-display: swap;
 }
 
 @font-face {
   font-family: WYYH;
-  src: url(https://eimoe.cn/fonts/MSYH.TTC);
+  src: url(/fonts/MSYH.TTC);
   font-display: swap;
 }
 
 @font-face {
   font-family: ZZAW;
-  src: url(https://eimoe.cn/fonts/筑紫A圆2.0.ttf);
+  src: url(/fonts/筑紫A圆2.0.ttf);
   font-display: swap;
 }
 
