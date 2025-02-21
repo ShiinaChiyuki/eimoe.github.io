@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://eimoe.cn/posts/8bf6fc9b.html</loc>
-    
-    <lastmod>2025-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://eimoe.cn/posts/2945249d.html</loc>
     
     <lastmod>2025-02-21</lastmod>
@@ -209,20 +200,6 @@
 
   
   <url>
-    <loc>https://eimoe.cn/tags/FFXIV/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://eimoe.cn/tags/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://eimoe.cn/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2025-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,6 +228,20 @@
   </url>
   
   <url>
+    <loc>https://eimoe.cn/tags/FFXIV/</loc>
+    <lastmod>2025-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eimoe.cn/tags/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2025-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://eimoe.cn/tags/Markdown/</loc>
     <lastmod>2025-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -267,13 +258,6 @@
 
   
   <url>
-    <loc>https://eimoe.cn/categories/FFXIV/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://eimoe.cn/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2025-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -282,6 +266,13 @@
   
   <url>
     <loc>https://eimoe.cn/categories/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/</loc>
+    <lastmod>2025-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://eimoe.cn/categories/FFXIV/</loc>
     <lastmod>2025-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
